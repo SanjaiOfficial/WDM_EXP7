@@ -1,8 +1,9 @@
 ### EX7 Implementation of Link Analysis using HITS Algorithm
 ### AIM: To implement Link Analysis using HITS Algorithm in Python.
-
-### NAME: SANJAI L
-### REGISTER NUMBER: 212223230184
+```
+NAME: SANJAI L
+REGISTER NUMBER: 212223230184
+```
 ### Description:
 <div align = "justify">
 The HITS (Hyperlink-Induced Topic Search) algorithm is a link analysis algorithm used to rank web pages. It identifies authority and hub pages 
